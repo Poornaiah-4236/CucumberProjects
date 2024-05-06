@@ -1,0 +1,4 @@
+Browser=chrome
+driverpath=C:\\Users\\poorn\\eclipse-workspace\\SeleniumTraining\\src\\test\\resources\\Drivers\\chromedriver.exe
+URL=https://www.facebook.com
+webdriverPath=\\src\\test\\resources\\Drivers\\chromedriver.exe
